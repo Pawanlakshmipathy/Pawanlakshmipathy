@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawanlakshmipathy&label=Profile%20views&color=0e75b6&style=flat" alt="pawanlakshmipathy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawanlakshmipathy" alt="pawanlakshmipathy" /></a> </p>
   
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
