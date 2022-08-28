@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+![github-header-image (1)](https://user-images.githubusercontent.com/67837564/187055873-8ce923dc-449d-445f-8ced-3047ff97fd7c.png)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawanlakshmipathy&label=Profile%20views&color=0e75b6&style=flat" alt="pawanlakshmipathy" /> </p>
   
 ## My Skill Set  
